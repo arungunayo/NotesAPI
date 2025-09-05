@@ -36,8 +36,8 @@ project/
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/arungunayo/NotesAPI.git
+cd NotesAPI
 ```
 
 ### 2. Install Python Dependencies
